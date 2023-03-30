@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color: #060047;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    
+}
+h2{
+    text-align: center;
+    color: #7D5A50;
+    font-family: cursive;
+}
+hr{
+    border-style: dotted none none none;
+    border-color: grey;
+    border-width: 4px;   
+    width: 50%;
+}
+p{
+    background-color: #F0EEED;
+    color: #23230b;
+    font-weight: 300;
+    font-size: larger;
+}
+a:visited{
+    color: blue;
+}
+a:hover{
+    color: rgb(5, 84, 42);
+}

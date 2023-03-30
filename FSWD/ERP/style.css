@@ -1,0 +1,52 @@
+body{
+    background-image: url("geu.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.base{
+    border-style: none;
+    margin-top: 200px;
+    margin-right: 10% ;
+    margin-left: 65%;
+   text-align: left;
+   padding: 35px;
+   border-color: rgb(255, 255, 255);
+
+}
+#user{
+    margin-top: 30px;
+    padding: 10px;
+    border-style: none;
+    border-color: white;
+    margin-bottom: 30px;
+    width:200px;
+}
+#password{
+    padding: 10px;
+    border-style: dashed;
+    border-color: white;
+    margin-bottom: 30px;
+    width:200px;
+}
+#cap{
+    padding: 10px;
+    border-style: dashed;
+    border-color: white;
+    margin-bottom: 30px;
+    width:200px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: lightblue;
+}
+#upper{
+    background-color: black;
+}
+img{
+    height:50px;
+    width:240px;
+    margin: 20px;
+
+}
